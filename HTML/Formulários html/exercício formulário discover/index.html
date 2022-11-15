@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+    <!--    FONTES! -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <!--    CSS!    -->
+    <style>
+        * {
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        fieldset {
+            max-width: 300px;
+            margin: 0 auto;
+            padding: 5px 10px;
+            margin-top: 17px;
+        }
+        input, label, textarea {
+            display: block;
+        }
+        input, textarea {
+            padding: 3px;
+            margin-bottom: 10px
+        }
+        legend h3 {
+            margin: 0 4px;
+        }
+    </style>
+</head>
+<body>
+    <!--  Formulário de contato! -->
+    <form>
+        <fieldset>
+            <legend><h3>Entre em contato comigo!</h3></legend>
+
+            <label for="name"><strong>Nome:</strong></label>
+            <input id="name" type="text" name="name"
+            placeholder="Seu Nome">
+
+            <label for="email"><strong>Email:</strong></label>
+            <input id="email" type="email" name="email"
+            placeholder="Digite o seu Email">
+
+            <label for="mensage"><strong>Mensagem:</strong></label>
+            <textarea name="mensage" id="mensage" cols="30" rows="10" placeholder="Mande uma mensagem!"></textarea>
+
+            <button type="submit"><strong>Enviar</strong></button>
+        </fieldset>
+    </form>
+</body>
+</html>

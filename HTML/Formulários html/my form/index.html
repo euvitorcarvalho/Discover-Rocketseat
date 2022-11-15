@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>PortFolio</title>
+</head>
+<body>
+        <h1>Cadastro</h1>
+        <form>
+            <fieldset>
+                <legend>Complete suas informações</legend>
+                <p>
+                    <label  for="first-name"><strong>Primeiro Nome:</strong></label>
+                    <input class="text" name="firstname" id="first-name" type="text"
+                    placeholder="Escreva aqui">
+                </p>
+                
+                <p>
+                    <label class="nome" for="last-name"><strong>Segundo Nome:</strong></label>
+                    <input class="text" name="secondname" id="last-name" type="text"
+                    placeholder="Escreva aqui">
+                </p>
+
+                <p>
+                    <strong>Gênero:</strong> 
+                     <label class="container" for="male">
+                         <input class="radio" name="gender" value="male" id="male" type="radio">
+                         Masculino
+                     </label>
+                     <label class="container" for="female">
+                         <input class="radio" name="gender" value="female" id="female" type="radio">
+                         Feminino
+                     <label class="container" for="other">
+                         <input class="radio" name="gender" value="other" id="other" type="radio">
+                         Outro
+                     </label>
+                </p>
+                
+                <p>
+                    <label for="email"><strong>Email:</strong></label>
+                    <input class="text" name="email" id="email" type="email"
+                    placeholder="Digite seu Email">
+                </p>
+                
+                <p>
+                    <label for="password"><strong>Senha:</strong></label>
+                    <input class="text" name="password" id="password" type="password"
+                    placeholder="Digite sua Senha">
+                </p>
+                
+                <p>
+                    <label for="birth-date"><strong>Data de Nascimento:</strong></label>
+                    <input class="text" name="birthdate" id="birth-date" type="date"
+                    placeholder="Sua Data de Nascimento">
+                </p>
+                
+                <p>
+                    <label><strong>Endereço:</strong>
+                        <textarea class="textarea" name="endereço" cols="50" rows="4"></textarea>
+                    </label>
+                </p>
+            </fieldset>
+        </form>
+            
+            
+
+    
+</body>
+</html>
