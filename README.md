@@ -42,8 +42,9 @@ O programa [Discover](https://rocketseat.com.br/discover) da [Rocketseat](https:
 
 ## Módulos
 
-**feitos:** `✔️`
-**em andamento ou pendentes:** `❌`
+**Feitos:** `✔️`
+<br/>
+**Em andamento ou pendentes:** `❌`
 
 ### **Equipando sua nave**
 
