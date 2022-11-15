@@ -1,5 +1,7 @@
 # Programa Discover - Rocketseat 🚀
 
+`Repositório em construção.`
+
 <div align="center">
 <a href="https://github.com/vitorhonna/rocketseat-discover">
 
@@ -7,8 +9,6 @@
 
 </a>
 </div>
-
-`Repositório em construção.`
 
 ## O que é?
 
