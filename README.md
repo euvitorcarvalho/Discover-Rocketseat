@@ -46,37 +46,46 @@ O programa [Discover](https://rocketseat.com.br/discover) da [Rocketseat](https:
 <br/>
 **Em andamento ou pendentes:** `❌`
 
-### **Equipando sua nave**
-
-1. ✔️ Ambiente dev de outro mundo
-1. ❌ Terminal, sua segunda casa
-
-#
-
-### **Guias estelares**
+### 🌎 Conectar (Carga horária: 2 horas)
 
 1. ✔️ Guia Estelar de Programação
-2. ✔️ O Guia Estelar de HTML
-3. ✔️ O Guia Estelar de CSS
-4. ✔️ O Guia Estelar de JavaScript
-5. ❌ Guia Estelar de HTTP
+1. ✔️ Computador, Software e Hardware ✨
+1. ✔️ Internet, Roteadores e Servidores ✨
+1. ✔️ Sistemas Operacionais ✨
+1. ✔️ Linguagem de Programação ✨
+1. ✔️ Tipos de Aplicações WEB ✨
 
-### **Preparação de astronautas**
+### 🪐 Fundamentar (Carga horária: 29 horas)
 
-1. ✔️ (HTML) Formulários de outro planeta
-2. ✔️ (HTML) Posso ver e ouvir o HTML
-3. ✔️ (CSS) App bonito, até nos textos
-4. ✔️ (CSS) Nem tudo são pixels
-5. ✔️ (CSS) Uma caixa dentro da outra
-6. ✔️ (CSS) Agora sim, cores
-7. ✔️ (CSS) Posicionando foguetes
-8. ❌ (CSS) Alinhando os planetas
-9. ❌ (CSS) Nem só de classes ou ID's
-10. ❌ (JS) Pilotando com a DOM
-11. ❌ (HTML) HTML que faz sentido, para todos
+1. ✔️ Ambiente Dev
+1. ✔️ Guia Estelar de HTML
+1. ✔️ Guia Estelar de CSS
+1. ✔️ Nem tudo são Pixels
+1. ✔️ Uma caixa dentro da outra
+1. ✔️ Agora sim, cores
+1. ✔️ Posso ver e ouvir o HTML
+1. ✔️ Posicionando foguetes
+1. ✔️ App bonito, até nos textos
+1. ✔️ Formulários de outro planeta
+1. ✔️ Guia Estelar JavaScript
+1. ❌ HTML que faz sentido, para todos
+1. ❌ Nem só de classes ou IDs
+1. ❌ Alinhando os planetas
+1. ❌ Pilotando com a DOM
+1. ❌ Terminal
+1. ❌ NodeJS
+1. ❌ Node + EJS
+1. ❌ SQL
+1. ❌ Estruturas de Dados  ✨
+1. ❌ Programação Orientada a Objetos ✨
+1. ❌ Programação Funcional ✨
+1. ❌ Guia Estelar de Git
+1. ❌ Guia estelar de Github
+1. ❌ Guia Estelar de HTTP
 
-### **Viajando ao espaço**
+### Especializar (Carga horária: 7 horas)
 
-1. ❌ NodeJS: O Motor da Nave
-1. ❌ NodeJS + EJS: HTML Inteligente
-1. ❌ SQL, a caixa preta da nossa nave
+1. ❌ Javascript Assíncrono e Promises
+1. ❌ Trabalhando com APIs
+1. ❌ Fundamentos de ReactJS
+1. ❌ Fundamentos de Typescript
