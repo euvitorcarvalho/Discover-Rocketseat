@@ -55,7 +55,7 @@ O programa [Discover](https://rocketseat.com.br/discover) da [Rocketseat](https:
 1. ✔️ Linguagem de Programação ✨
 1. ✔️ Tipos de Aplicações WEB ✨
 
-### Fundamentar (Carga horária: 29 horas)
+### Fundamentar #### (Carga horária: 29 horas)
 
 1. ✔️ Ambiente Dev
 1. ✔️ Guia Estelar de HTML
