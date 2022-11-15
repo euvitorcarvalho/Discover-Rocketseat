@@ -66,14 +66,13 @@ O programa [Discover](https://rocketseat.com.br/discover) da [Rocketseat](https:
 2. ✔️ (HTML) Posso ver e ouvir o HTML
 3. ✔️ (CSS) App bonito, até nos textos
 4. ✔️ (CSS) Nem tudo são pixels
-5. 
-6. ✔️ (CSS) Uma caixa dentro da outra
-7. ✔️ (CSS) Agora sim, cores
-8. ✔️ (CSS) Posicionando foguetes
-9. ❌ (CSS) Alinhando os planetas
-10. ❌ (CSS) Nem só de classes ou ID's
-11. ❌ (JS) Pilotando com a DOM
-12. ❌ (HTML) HTML que faz sentido, para todos
+5. ✔️ (CSS) Uma caixa dentro da outra
+6. ✔️ (CSS) Agora sim, cores
+7. ✔️ (CSS) Posicionando foguetes
+8. ❌ (CSS) Alinhando os planetas
+9. ❌ (CSS) Nem só de classes ou ID's
+10. ❌ (JS) Pilotando com a DOM
+11. ❌ (HTML) HTML que faz sentido, para todos
 
 ### **Viajando ao espaço**
 
